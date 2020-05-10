@@ -6,11 +6,10 @@ We’ve often been told that a lot of Pop music sounds the same and is “formul
 
 ### 2) What are the best predictors for what will become a hit song?
 
-### 3) What is the 'ideal' pop song?
+### 3) How well do these predictors seperate hits from flops? What is the 'ideal' pop song?
 
 ### 4) How has popular music changed through the last 50 years?
 
-### 5) Who is the top artist of the last 50 years?
 
 These questions can be answered through means, standard deviations, and graphs. I plan to run similar operations on each of the data columns to determine in which columns the largest differences between hit song and non-hit songs lie in. 
 
