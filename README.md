@@ -1,4 +1,4 @@
-# DSCI235 Final Project Introduction
+# DSCI235 Final Project
 
 We’ve often been told that a lot of Pop music sounds the same and is “formulaic”. To examine this question, I found a dataset containing metrics of 41,106 songs from 1960 to 2015. The dataset contains basic musical metrics such as beats per minute, tempo, key, time signature, and song length, as well as other categories compiled by Spotify’s web API that contains metrics like instrumental-ness, danceability, and energy. With this data, I am intending to answer questions about how pop music can be categorized, what factors are most instrumental in making a song a pop-song, and what songs follow this mold best. Specifically, I intend to answer the following questions:
 
@@ -13,3 +13,4 @@ We’ve often been told that a lot of Pop music sounds the same and is “formul
 
 These questions can be answered through means, standard deviations, and graphs. I plan to run similar operations on each of the data columns to determine in which columns the largest differences between hit song and non-hit songs lie in. 
 
+This project can be found in the file FinalAssignment.ipynb
